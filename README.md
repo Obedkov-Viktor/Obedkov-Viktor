@@ -4,27 +4,18 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,github,gitlab,linux,redux,ts,webstorm,phpstorm,php,mysql)](https://skillicons.dev)
 
-### Навыки
-
-- HTML
-- CSS
-- JavaScript
-- PHP
-- TypeScript (TS)
-- React
-- Bootstrap
-- Node.js
-- GitLab
-- Figma
-- Tailwind CSS
-- Redux
-- MySQL
+LANGUAGE: PHP, TS, JS, HTML, CSS
 
 ### Проекты
 
 1. blog-customizer (https://github.com/Obedkov-Viktor/blog-customizer) - это инструмент для настройки внешнего вида блога на WordPress.
-2. Цок РЖЯ (https://github.com/Obedkov-Viktor/%D1%86%D0%BE%D0%BA%D1%80%D0%B6%D1%8F.%D1%80%D1%84) - это веб-сайт, посвященный русскому жестовому языку.
+2. Цок РЖЯ (https://цокржя.рф) - это веб-сайт, посвященный русскому жестовому языку.
 3. Блог Customizer (https://blog-customizer.netlify.app/) - это демонстрация работы инструмента blog-customizer.
+
+| [Link 1](https://github.com/Obedkov-Viktor/blog-customizer) | [Link 2](https://цокржя.рф) |
+|-------------------------------|------------------------------|
+| [Link 3](https://blog-customizer.netlify.app/) | [Link 4](http://example.com) |
+
 
 ### Языки
 
