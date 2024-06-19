@@ -1,4 +1,4 @@
-![image](https://github.com/Obedkov-Viktor/Obedkov-Viktor/assets/129048934/6dabae16-719c-4b2f-83b5-b0342bdbe29a)# Мой профиль на GitHub
+# Мой профиль на GitHub
 
 Меня зовут Виктор Объедков, я веб-разработчик из Москвы. Специализируюсь на создании современных и функциональных веб-сайтов. Мои основные навыки включают React, Redux, HTML, CSS, JavaScript, PHP и другие технологии фронтенда и бэкенда.
 
@@ -17,7 +17,10 @@ LANGUAGE: PHP, TS, JS, HTML, CSS
 | [Link 3](https://blog-customizer.netlify.app/) | [Link 4](http://example.com) |
 
 
-![image](https://github.com/Obedkov-Viktor/Obedkov-Viktor/assets/129048934/67c04b64-5888-43a4-a9d7-d80c2591a1bb)
+| ![image](https://github.com/Obedkov-Viktor/Obedkov-Viktor/assets/129048934/67c04b64-5888-43a4-a9d7-d80c2591a1bb) | ![image](https://github.com/Obedkov-Viktor/Obedkov-Viktor/assets/129048934/42ccac39-c895-4825-aa30-5d06d437787c) |
+|-------------------------------|------------------------------|
+
+
 
 
 ### Интересы
