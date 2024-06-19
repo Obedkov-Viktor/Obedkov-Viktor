@@ -1,4 +1,4 @@
-# Мой профиль на GitHub
+![image](https://github.com/Obedkov-Viktor/Obedkov-Viktor/assets/129048934/6dabae16-719c-4b2f-83b5-b0342bdbe29a)# Мой профиль на GitHub
 
 Меня зовут Виктор Объедков, я веб-разработчик из Москвы. Специализируюсь на создании современных и функциональных веб-сайтов. Мои основные навыки включают React, Redux, HTML, CSS, JavaScript, PHP и другие технологии фронтенда и бэкенда.
 
@@ -8,7 +8,7 @@ LANGUAGE: PHP, TS, JS, HTML, CSS
 
 ### Проекты
 
-1. blog-customizer (https://github.com/Obedkov-Viktor/blog-customizer) - это инструмент для настройки внешнего вида блога на WordPress.
+1. blog-customizer (https://github.com/Obedkov-Viktor/blog-customizer) 
 2. Цок РЖЯ (https://цокржя.рф) - это веб-сайт, посвященный русскому жестовому языку.
 3. Блог Customizer (https://blog-customizer.netlify.app/) - это демонстрация работы инструмента blog-customizer.
 
@@ -17,14 +17,8 @@ LANGUAGE: PHP, TS, JS, HTML, CSS
 | [Link 3](https://blog-customizer.netlify.app/) | [Link 4](http://example.com) |
 
 
-### Языки
+![image](https://github.com/Obedkov-Viktor/Obedkov-Viktor/assets/129048934/67c04b64-5888-43a4-a9d7-d80c2591a1bb)
 
-- TypeScript (TS)
-- JavaScript (JS)
-- HTML
-- CSS
-- PHP
-- React
 
 ### Интересы
 
