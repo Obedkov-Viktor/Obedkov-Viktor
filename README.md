@@ -12,17 +12,6 @@ LANGUAGE: PHP, TS, JS, HTML, CSS
 2. Цок РЖЯ (https://цокржя.рф) - это веб-сайт, посвященный русскому жестовому языку.
 3. Блог Customizer (https://blog-customizer.netlify.app/) - это демонстрация работы инструмента blog-customizer.
 
-| [Link 1](https://github.com/Obedkov-Viktor/blog-customizer) | [Link 2](https://цокржя.рф) |
-|-------------------------------|------------------------------|
-| [Link 3](https://blog-customizer.netlify.app/) | [Link 4](http://example.com) |
-
-
-| [![image](https://github.com/Obedkov-Viktor/Obedkov-Viktor/assets/129048934/67c04b64-5888-43a4-a9d7-d80c2591a1bb)(https://blog-customizer.netlify.app/)] | [![image](https://github.com/Obedkov-Viktor/Obedkov-Viktor/assets/129048934/42ccac39-c895-4825-aa30-5d06d437787c)(https://цокржя.рф)]|
-|-------------------------------|------------------------------|
-
-
-
-
 ### Интересы
 
 Мечтаю стать лучшим разработчиком (fullstack), видимо, этой цели я добиваюсь до сих пор.
