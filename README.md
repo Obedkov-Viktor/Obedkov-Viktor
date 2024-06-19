@@ -17,7 +17,7 @@ LANGUAGE: PHP, TS, JS, HTML, CSS
 | [Link 3](https://blog-customizer.netlify.app/) | [Link 4](http://example.com) |
 
 
-| ![image](https://github.com/Obedkov-Viktor/Obedkov-Viktor/assets/129048934/67c04b64-5888-43a4-a9d7-d80c2591a1bb) | ![image](https://github.com/Obedkov-Viktor/Obedkov-Viktor/assets/129048934/42ccac39-c895-4825-aa30-5d06d437787c) |
+| [![image](https://github.com/Obedkov-Viktor/Obedkov-Viktor/assets/129048934/67c04b64-5888-43a4-a9d7-d80c2591a1bb)(https://blog-customizer.netlify.app/)] | [![image](https://github.com/Obedkov-Viktor/Obedkov-Viktor/assets/129048934/42ccac39-c895-4825-aa30-5d06d437787c)(https://цокржя.рф)]|
 |-------------------------------|------------------------------|
 
 
