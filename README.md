@@ -2,7 +2,7 @@
 
 Меня зовут Виктор Объедков, я веб-разработчик из Москвы. Специализируюсь на создании современных и функциональных веб-сайтов. Мои основные навыки включают React, Redux, HTML, CSS, JavaScript, PHP и другие технологии фронтенда и бэкенда.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,github,gitlab,linux,redux,ts,webstoem,phpstorm,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,github,gitlab,linux,redux,ts,webstorm,phpstorm,php,mysql)](https://skillicons.dev)
 
 ### Навыки
 
