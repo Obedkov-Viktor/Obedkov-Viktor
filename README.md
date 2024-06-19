@@ -1,6 +1,6 @@
-# Мой профиль на GitHub
-
-Меня зовут Виктор, я веб-разработчик. Специализируюсь на создании современных и функциональных веб-сайтов. Мои основные навыки включают React, Redux, HTML, CSS, JavaScript, PHP и другие технологии фронтенда и бэкенда.
+<center>
+<h1>Frontend</h1>
+</center>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,github,gitlab,linux,redux,ts,webstorm,phpstorm,php,mysql)](https://skillicons.dev)
 
