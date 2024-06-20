@@ -12,7 +12,7 @@ PHP, TS, JS, HTML, CSS
 
 1. ЦОКРЖЯ - https://цокржя.рф - это веб-сайт, посвященный русскому жестовому языку.
 2. Блог Customizer - https://blog-customizer.netlify.app/ - это демонстрация работы инструмента blog-customizer.
-
+3. Mesto Russia - https://obedkov-viktor.github.io/mesto-project-ff/
 ***
 
 
