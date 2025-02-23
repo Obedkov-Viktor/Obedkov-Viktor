@@ -1,24 +1,90 @@
-<center>
-<h1>Frontend</h1>
-</center>
+# Виктор Объедков | Junior PHP Developer
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,github,gitlab,linux,redux,ts,webstorm,phpstorm,php,mysql,laravel,vite)](https://skillicons.dev)
+Привет! Я разработчик с более чем 2 годами опыта в программировании на PHP и Laravel, а также общим стажем в IT свыше 6 лет. Специализируюсь на backend-разработке, но также работаю с frontend и администрированием серверов. Моя цель — создавать надёжные и оптимизированные веб-приложения. Здесь вы найдёте мои проекты и контакты.
 
-### LANGUAGE: 
-PHP, TS, JS, HTML, CSS
-***
+---
 
-### PROJECTS
+## Навыки
 
-1. ЦОКРЖЯ - https://цокржя.рф - это веб-сайт, посвященный русскому жестовому языку.
-2. Блог Customizer - https://blog-customizer.netlify.app/ - это демонстрация работы инструмента blog-customizer.
-3. Mesto Russia - https://obedkov-viktor.github.io/mesto-project-ff/
-4. Russia Travel - https://obedkov-viktor.github.io/russian-travel/  
-***
+![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,html,css,tailwind,js,ts,git,github,gitlab,linux,docker,nginx,bitrix,postman,figma,redux,vite)
 
+- **Языки программирования**: PHP, JavaScript, TypeScript, HTML, CSS  
+- **Фреймворки и библиотеки**: Laravel, Tailwind CSS, Redux  
+- **Базы данных**: MySQL, SQLite  
+- **Инструменты**: Git, GitHub, GitLab, Composer, Docker, Nginx, Postman, PhpStorm, Vite  
+- **Дополнительно**: Linux (Ubuntu), Битрикс24, REST API, Yandex Cloud, Figma  
 
-### CONTACTS
+---
 
- Email: [Obedkov.2018@yandex.ru](mailto:obedkov.2018@yandex.ru)
+## Проекты
 
- Telegramm: [@Obyedkov](https://t.me/Obyedkov)
+1. **[ЦОКРЖЯ](https://цокржя.рф)**  
+   Веб-сайт, посвящённый русскому жестовому языку.  
+   - Разработан на PHP (Laravel) с использованием Tailwind CSS.  
+   - Настройка сервера (Linux Ubuntu, Nginx), оптимизация кода для повышения производительности.  
+   - Реализована система автообновления контента для удобства менеджеров.  
+   - Итог: сайт успешно запущен в рабочую среду.
+
+2. **[Блог Customizer](https://blog-customizer.netlify.app/)**  
+   Демонстрация инструмента для настройки блогов.  
+   - Frontend-разработка с использованием HTML, CSS и JavaScript.  
+   - Деплой на Netlify.
+
+3. **[Mesto Russia](https://obedkov-viktor.github.io/mesto-project-ff/)**  
+   Интерактивный проект с карточками мест в России.  
+   - Разработан на JavaScript, HTML и CSS.  
+   - Адаптивный дизайн и базовая клиентская логика.
+
+4. **[Russia Travel](https://obedkov-viktor.github.io/russian-travel/)**  
+   Лендинг о путешествиях по России.  
+   - Построен с использованием HTML и CSS.  
+   - Адаптивная вёрстка и чистый код.
+
+> Больше проектов и исходный код доступны на [моём GitHub](https://github.com/Obedkov-Viktor).
+
+---
+
+## Опыт работы
+
+- **Системный администратор**  
+  ЧУ "ТМЖ" (Январь 2025 — настоящее время)  
+  Поддержка IT-инфраструктуры, настройка серверов и автоматизация обновлений.
+
+- **Младший специалист по разработке ПО**  
+  НКО "Национальный центр оценки квалификации и сертификации" (Ноябрь 2023 — настоящее время)  
+  Разработка сайта компании на Laravel, настройка VPS и оптимизация производительности.
+
+- **Ведущий специалист по сопровождению Битрикс24**  
+  МСП Банк (Апрель 2020 — Февраль 2024)  
+  Автоматизация бизнес-процессов с помощью PHP и JavaScript.
+
+Подробности — в [моём резюме](#) (можно добавить ссылку на PDF).
+
+---
+
+## Образование и сертификаты
+
+- **Пятигорский государственный лингвистический университет**  
+  Специальность: Информационная безопасность телекоммуникационных систем (2015)  
+
+- **Сертификаты**:  
+  - "Linux. Основы командной строки" (Edutoria)  
+  - "React 2023" (Edutoria)  
+  - "CSS Flexbox" (Edutoria)  
+
+---
+
+## Обо мне
+
+- Увлекаюсь разработкой небольших проектов и изучением новых технологий.  
+- Организую встречи по IT-тематике для обмена опытом.  
+- План развития: стать Fullstack Developer и руководителем команды.  
+
+---
+
+## Контакты
+
+- **Email**: [obedkov.2018@yandex.ru](mailto:obedkov.2018@yandex.ru)  
+- **Telegram**: [@Obyedkov](https://t.me/Obyedkov)  
+- **GitHub**: [github.com/Obedkov-Viktor](https://github.com/Obedkov-Viktor)  
+- **Телефон**: +7 (996) 417-89-70  
