@@ -2,7 +2,7 @@
 <h1>Frontend</h1>
 </center>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,github,gitlab,linux,redux,ts,webstorm,phpstorm,php,mysql,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,github,gitlab,linux,redux,ts,webstorm,phpstorm,php,mysql,laravel,vite)](https://skillicons.dev)
 
 ### LANGUAGE: 
 PHP, TS, JS, HTML, CSS
